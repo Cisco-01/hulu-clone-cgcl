@@ -27,6 +27,7 @@ function Header() {
         src="https://download.logo.wine/logo/Hulu/Hulu-Logo.wine.png"
         width={200}
         height={100}
+        alt=""
       />
     </header>
   );
